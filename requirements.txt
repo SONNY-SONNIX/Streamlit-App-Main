@@ -1,0 +1,6 @@
+streamlit
+pandas
+black
+numpy 
+scikit-learn 
+tabulate 
