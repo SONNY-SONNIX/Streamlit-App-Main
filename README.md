@@ -1,7 +1,7 @@
 # Streamlit Web App For Sales Prediction
 
 # LP4 Embedding a machine learning model in a GUI
-*short project description*
+*Forecasting sales are crucial for businesses to make informed decisions and optimize their operations. In this article, I will explore how to develop a web application using Streamlit as a frontend to predict sales for Favorita stores. I will leverage the power of the Facebook Prophet library, a popular tool for time series forecasting.
 
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
