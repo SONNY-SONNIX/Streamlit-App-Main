@@ -1,6 +1,5 @@
-# Streamlit-App-Main
-
 # Streamlit Web App For Sales Prediction
+
 # LP4 Embedding a machine learning model in a GUI
 *short project description*
 
