@@ -6,7 +6,7 @@
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP4 Embedding a machine learning model in a GUI|streamlit-web-app-for-sales-prediction| [Article]https://medium.com/p/26c84ed8f625/edit | [Deployed App](http://localhost:8503) |
+| LP4 |Embedding a machine learning model in a GUI| [Article]https://medium.com/p/26c84ed8f625/edit | [Deployed App](https://huggingface.co/spaces/Sonny4Sonnix/Streamlit_app_for_sales_prediction) |
 |  
 ##  Description
 
