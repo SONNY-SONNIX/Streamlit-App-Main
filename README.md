@@ -13,7 +13,7 @@
 Favorita Stores Sales Prediction App
 This web application allows users to predict sales for Favorita stores based on historical data using the Facebook Prophet machine learning model. Users can input a specific date, and the app will provide a sales prediction for that date.
 
-Setup
+## Setup
 Make sure you have Python installed on your system.
 
 Clone this repository to your local machine.
@@ -107,7 +107,8 @@ Once the app is loaded, you can select a specific date from the sidebar.
 
 The app will then display the predicted sales for that date based on the historical data and the trained Prophet model.
 
-Contributing
+## Contributing
+
 Contributions to this project are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request.
 
 
